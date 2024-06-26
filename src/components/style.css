@@ -1,0 +1,62 @@
+#logStatement{
+    margin-bottom: 20px;
+    color: #333;
+}
+.login{
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    text-align: center;
+}
+
+.loginImag{
+    width: 75px;
+}
+
+.twitterBtn{
+    background-color: #1E90FF; /* Calm blue color */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 50px; /* Round shape */
+    cursor: pointer;
+    width: 100%;
+    font-size: 16px;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+.twitterBtn:hover{
+    background-color: #1C86EE; /* Slightly darker blue on hover */
+    transform: scale(1.05);
+}
+
+.dashboard {
+    justify-content: center;
+   background-color: white;
+   padding: 30px;
+   border-radius: 15px;
+   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+   max-width: 400px;
+   margin: auto;
+   text-align: center;
+  }
+  
+.dashboard h2 {
+    margin-bottom: 15px;
+    color: #333;
+    font-size: 24px;
+  }
+  
+.dashboard p {
+    color: #666;
+    font-size: 16px;
+  }
+
+  .dahsboard-img{
+    width: 50px;
+    height: auto; 
+    margin-top: 20px;
+  }
+  
